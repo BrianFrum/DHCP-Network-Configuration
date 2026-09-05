@@ -47,4 +47,5 @@ Go into each endpoint, select desktop, select IP Configuration, and select DHCP.
 
 
 In the command prompt of any computer, ping a device in the same network, the other network, and the router. If everything work you should get a reply from each.
+
 <img width="785" height="724" alt="image" src="https://github.com/user-attachments/assets/2343ba12-f1b6-4a2b-b39e-bf89e6076c4d" />
